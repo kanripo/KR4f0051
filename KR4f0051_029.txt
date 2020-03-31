@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 松泉集
-#+DATE: 2020-03-31 11:39:14.221696
+#+DATE: 2020-03-31 11:39:14.695888
 #+PROPERTY: ID KR4f0051
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 29
 <pb:KR4f0051_WYG_029-1a>¶
 　　欽定四庫全書¶
@@ -443,7 +443,7 @@
 ¶
 　　終獻奏協豐之章¶
 ¶
-　　清斚兮三𣂏　　　　　　揚翟籥兮載愉¶
+　　清斚兮三㪺　　　　　　揚翟籥兮載愉¶
 ¶
 　　靈回翔兮六幕　　　　　澤霶霈兮遍八區¶
 ¶

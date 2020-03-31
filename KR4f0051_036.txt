@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 松泉集
-#+DATE: 2020-03-31 11:39:14.275671
+#+DATE: 2020-03-31 11:39:14.753005
 #+PROPERTY: ID KR4f0051
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 36
 <pb:KR4f0051_WYG_036-1a>¶
 　　欽定四庫全書¶
@@ -197,7 +197,7 @@
 流於宴昵之私為可通於卜氏賢賢之義矣樹峯能自¶
 取友而又得嘉耦以為之助徳之成也何可量哉古之¶
 人賦詩不必已作余不工為曼麗之辭而辱樹峯知厚¶
-不能&KR2393;於言也於其行述所業以相質亦庶幾風人之¶
+不能已於言也於其行述所業以相質亦庶幾風人之¶
 <pb:KR4f0051_WYG_036-11a>¶
 㫖云¶
 ¶

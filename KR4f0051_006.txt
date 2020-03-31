@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 松泉集
-#+DATE: 2020-03-31 11:39:13.942449
+#+DATE: 2020-03-31 11:39:14.450429
 #+PROPERTY: ID KR4f0051
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 6
 <pb:KR4f0051_WYG_006-1a>¶
 　　欽定四庫全書¶
@@ -273,7 +273,7 @@
 秋闈再試猶迍邅選人墨綬絲竹牽先生掉頭辭一官¶
 <pb:KR4f0051_WYG_006-13a>¶
 丈夫跬步排金鑾霜華豈惜两鬢斑齒艾才壯心逾堅¶
-珠宫丹詔㸔網珊&KR0583;翼擊水摶三千清切直侍香案前¶
+珠宫丹詔㸔網珊鵬翼擊水摶三千清切直侍香案前¶
 造物有意相周旋欲令宿老驚嬋娟玉府圭璧輝璣蠙¶
 中有彛鼎古色殷明光視草筆似椽應¶
 ¶

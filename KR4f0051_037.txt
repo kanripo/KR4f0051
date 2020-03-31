@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 松泉集
-#+DATE: 2020-03-31 11:39:14.285419
+#+DATE: 2020-03-31 11:39:14.762883
 #+PROPERTY: ID KR4f0051
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 37
 <pb:KR4f0051_WYG_037-1a>¶
 　　欽定四庫全書¶
@@ -408,7 +408,7 @@
 　　勅撰元臣耶律楚材墓碑記¶
 ¶
 <pb:KR4f0051_WYG_037-19b>¶
-　　瓮山之𪋤有元臣耶律楚材墓一區歲乆弗治漸就蕪¶
+　　瓮山之麓有元臣耶律楚材墓一區歲乆弗治漸就蕪¶
 没㑹其地近¶
 ¶
 　　别苑所司將有所營建¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 松泉集
-#+DATE: 2020-03-31 11:39:14.230380
+#+DATE: 2020-03-31 11:39:14.705455
 #+PROPERTY: ID KR4f0051
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 30
 <pb:KR4f0051_WYG_030-1a>¶
 　　欽定四庫全書¶
@@ -43,7 +43,7 @@
 ¶
 　　壇位籩豆視畢回　齋宫(臣)等伏思省牲之典現今¶
 ¶
-　　遣親王視牲禮部堂官看牲合於周禮祀大神祭大&KR0344;¶
+　　遣親王視牲禮部堂官看牲合於周禮祀大神祭大示¶
 大宗伯省牲鑊及唐宋厯朝禮部尚書侍郎太常光禄¶
 <pb:KR4f0051_WYG_030-2b>¶
 省牲告腯之制應仍遣官行事其前期五日¶

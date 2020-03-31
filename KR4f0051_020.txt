@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 松泉集
-#+DATE: 2020-03-31 11:39:14.120602
+#+DATE: 2020-03-31 11:39:14.594417
 #+PROPERTY: ID KR4f0051
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 20
 <pb:KR4f0051_WYG_020-1a>¶
 　　欽定四庫全書¶
@@ -392,7 +392,7 @@
 今三十年矣感而有作¶
 ¶
 　　昔坐翠微間攤書白晝閒至今成皓首重此對孱顔謝¶
-墅&KR0196;雲杳灤波日夜潺平生幾游厯也當故鄉山¶
+墅烟雲杳灤波日夜潺平生幾游厯也當故鄉山¶
 ¶
 　　蔣恒軒尚書於行帳中為潑墨寫生小册屬題二¶
 首¶
